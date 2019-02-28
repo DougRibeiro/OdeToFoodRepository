@@ -1,0 +1,16 @@
+C:\GitRepositories\pcfTraining\DotNetCoreFundamentals\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.deps.json
+C:\GitRepositories\pcfTraining\DotNetCoreFundamentals\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\GitRepositories\pcfTraining\DotNetCoreFundamentals\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\GitRepositories\pcfTraining\DotNetCoreFundamentals\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\GitRepositories\pcfTraining\DotNetCoreFundamentals\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\GitRepositories\pcfTraining\DotNetCoreFundamentals\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfo.cs
+C:\GitRepositories\pcfTraining\DotNetCoreFundamentals\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\GitRepositories\pcfTraining\DotNetCoreFundamentals\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.deps.json
+C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfo.cs
+C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.pdb
