@@ -14,4 +14,16 @@ C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Core\obj\Debug\netc
 C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfo.cs
 C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
 C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+<<<<<<< HEAD
 C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csprojAssemblyReference.cache
+=======
+C:\GitRepositories\pluralsight\OdeToFoodRepository\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.deps.json
+C:\GitRepositories\pluralsight\OdeToFoodRepository\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\GitRepositories\pluralsight\OdeToFoodRepository\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\GitRepositories\pluralsight\OdeToFoodRepository\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csprojAssemblyReference.cache
+C:\GitRepositories\pluralsight\OdeToFoodRepository\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\GitRepositories\pluralsight\OdeToFoodRepository\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\GitRepositories\pluralsight\OdeToFoodRepository\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfo.cs
+C:\GitRepositories\pluralsight\OdeToFoodRepository\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\GitRepositories\pluralsight\OdeToFoodRepository\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+>>>>>>> 6128d5f56fe45039babc1e0ae9b42dc825a606f4
