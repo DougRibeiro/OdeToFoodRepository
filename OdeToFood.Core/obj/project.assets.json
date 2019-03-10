@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitRepositories\\pluralsight\\OdeToFoodRepository\\OdeToFood.Core\\OdeToFood.Core.csproj",
+      "projectUniqueName": "C:\\GitRepositories\\pcfTraining\\OdeToFoodRepository\\OdeToFood.Core\\OdeToFood.Core.csproj",
       "projectName": "OdeToFood.Core",
-      "projectPath": "C:\\GitRepositories\\pluralsight\\OdeToFoodRepository\\OdeToFood.Core\\OdeToFood.Core.csproj",
+      "projectPath": "C:\\GitRepositories\\pcfTraining\\OdeToFoodRepository\\OdeToFood.Core\\OdeToFood.Core.csproj",
       "packagesPath": "C:\\Users\\Douglas_Ribeiro\\.nuget\\packages\\",
-      "outputPath": "C:\\GitRepositories\\pluralsight\\OdeToFoodRepository\\OdeToFood.Core\\obj\\",
+      "outputPath": "C:\\GitRepositories\\pcfTraining\\OdeToFoodRepository\\OdeToFood.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
