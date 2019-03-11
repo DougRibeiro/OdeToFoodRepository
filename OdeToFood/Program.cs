@@ -14,7 +14,21 @@ namespace OdeToFood
     {
         public static void Main(string[] args)
         {
-            CreateWebHostBuilder(args).Build().Run();
+            var host = CreateWebHostBuilder(args).Build();
+        
+            MigrateDataBase(host);
+        
+            host.Run();
+        
+        
+        }
+
+        private static void MigrateDataBase(IWebHost host)
+        {
+            using(var scope = host.Services.CreateScope())
+            {
+                
+            }
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>

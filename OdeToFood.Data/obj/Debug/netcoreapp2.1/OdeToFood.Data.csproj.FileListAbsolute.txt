@@ -28,10 +28,10 @@ C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Data\bin\Debug\netc
 C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.pdb
 C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
 C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csprojAssemblyReference.cache
 C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CoreCompileInputs.cache
 C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.AssemblyInfoInputs.cache
 C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.AssemblyInfo.cs
 C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CopyComplete
 C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.dll
 C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.pdb
-C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csprojAssemblyReference.cache
