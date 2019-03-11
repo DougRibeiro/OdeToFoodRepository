@@ -34,3 +34,4 @@ C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Data\obj\Debug\netc
 C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CopyComplete
 C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.dll
 C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.pdb
+C:\GitRepositories\pcfTraining\OdeToFoodRepository\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csprojAssemblyReference.cache
